@@ -1,0 +1,8 @@
+{
+    "triggerTaskOnSave.tasks": {
+        "cadquery-main": [
+            "src/**/main.py"
+        ]
+    },
+    "editor.selectionClipboard": false
+}

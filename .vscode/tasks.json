@@ -1,0 +1,17 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "cadquery-main",
+            "type": "shell",
+            "command": "python3",
+            "args": [
+                "${workspaceFolder}/src/main.py"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
